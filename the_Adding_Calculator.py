@@ -1,5 +1,4 @@
 #The Adding Calculator
-#Test edit
 #r/dailyprogrammer challenge #331 [Easy]
 #Make a calculator that lets the user add, subtract, multiply and divide integers. It should allow exponents too.
 #The user can only enter integers and must expect the result to be integers.
